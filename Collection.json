@@ -1,0 +1,229 @@
+{
+  "info": {
+    "_postman_id": "b7faeeb1-bdf5-4fd9-a5a7-e650c190fe70",
+    "name": "Wolivo API",
+    "schema": "httpss://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Usuarios",
+      "item": [
+        {
+          "name": "GET /api/usuarios",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "https://localhost:7282/api/usuarios",
+              "protocol": "https",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "usuarios"]
+            }
+          }
+        },
+        {
+          "name": "GET /api/usuarios/{id}",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "https://localhost:7282/api/usuarios/e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "usuarios", "e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb"]
+            }
+          }
+        },
+        {
+          "name": "POST /api/usuarios",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"nombres\": \"Carlos\",\n  \"apellidos\": \"López\",\n  \"correo\": \"carlos@example.com\",\n  \"telefono\": \"1234567890\",\n  \"rol\": 1,\n  \"estado\": true\n}"
+            },
+            "url": { "raw": "https://localhost:7282/api/usuarios", "host": ["localhost"], "port": "7282", "path": ["api", "usuarios"] }
+          }
+        },
+        {
+          "name": "PUT /api/usuarios/{id}",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"nombres\": \"Carlos\",\n  \"apellidos\": \"López\",\n  \"correo\": \"carlos@example.com\",\n  \"telefono\": \"1234567890\",\n  \"rol\": 1,\n  \"estado\": true\n}"
+            },
+            "url": {
+              "raw": "https://localhost:7282/api/usuarios/e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "usuarios", "e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb"]
+            }
+          }
+        },
+        {
+          "name": "DELETE /api/usuarios/{id}",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "https://localhost:7282/api/usuarios/e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "usuarios", "e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proyectos",
+      "item": [
+        {
+          "name": "GET /api/proyectos",
+          "request": { "method": "GET", "url": { "raw": "https://localhost:7282/api/proyectos", "host": ["localhost"], "port": "7282", "path": ["api", "proyectos"] } }
+        },
+        {
+          "name": "GET /api/proyectos/{id}",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "https://localhost:7282/api/proyectos/e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb", "host": ["localhost"], "port": "7282", "path": ["api", "proyectos", "e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb"] }
+          }
+        },
+        {
+          "name": "POST /api/proyectos",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"nombre\": \"Proyecto Alpha\",\n  \"descripcion\": \"Desc\",\n  \"fechaInicio\": \"2024-07-01T00:00:00\",\n  \"fechaFin\": \"2024-08-01T00:00:00\",\n  \"estado\": 1,\n  \"usuarioId\": \"e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb\"\n}"
+            },
+            "url": { "raw": "https://localhost:7282/api/proyectos", "host": ["localhost"], "port": "7282", "path": ["api", "proyectos"] }
+          }
+        },
+        {
+          "name": "PUT /api/proyectos/{id}",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"nombre\": \"Proyecto Actualizado\",\n  \"descripcion\": \"Nueva Desc\",\n  \"fechaInicio\": \"2024-07-01T00:00:00\",\n  \"fechaFin\": \"2024-08-01T00:00:00\",\n  \"estado\": 1,\n  \"usuarioId\": \"e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb\"\n}"
+            },
+            "url": {
+              "raw": "https://localhost:7282/api/proyectos/e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "proyectos", "e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb"]
+            }
+          }
+        },
+        {
+          "name": "DELETE /api/proyectos/{id}",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "https://localhost:7282/api/proyectos/e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "proyectos", "e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Actividades",
+      "item": [
+        {
+          "name": "GET /api/actividades",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "https://localhost:7282/api/actividades",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "actividades"]
+            }
+          }
+        },
+        {
+          "name": "GET /api/actividades/{id}",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "https://localhost:7282/api/actividades/e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "actividades", "e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb"]
+            }
+          }
+        },
+        {
+          "name": "POST /api/actividades",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"titulo\": \"Análisis de requerimientos\",\n  \"descripcion\": \"Revisar documentación\",\n  \"fecha\": \"2024-07-01T00:00:00\",\n  \"estado\": 1,\n  \"horasEstimadas\": 3,\n  \"horasReales\": 4,\n  \"proyectoId\": \"e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb\"\n}"
+            },
+            "url": { "raw": "https://localhost:7282/api/actividades", "host": ["localhost"], "port": "7282", "path": ["api", "actividades"] }
+          }
+        },
+        {
+          "name": "PUT /api/actividades/{id}",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"titulo\": \"Reunión de seguimiento\",\n  \"descripcion\": \"Con el equipo\",\n  \"fecha\": \"2024-07-02T00:00:00\",\n  \"estado\": 1,\n  \"horasEstimadas\": 2,\n  \"horasReales\": 2,\n  \"proyectoId\": \"e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb\"\n}"
+            },
+            "url": {
+              "raw": "https://localhost:7282/api/actividades/e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "actividades", "e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb"]
+            }
+          }
+        },
+        {
+          "name": "DELETE /api/actividades/{id}",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "https://localhost:7282/api/actividades/e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "actividades", "e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Reportes",
+      "item": [
+        {
+          "name": "GET /api/reportes/actividades",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "https://localhost:7282/api/reportes/actividades?usuarioId=e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb&fechaDesde=2024-07-01&fechaHasta=2024-07-30",
+              "host": ["localhost"],
+              "port": "7282",
+              "path": ["api", "reportes", "actividades"],
+              "query": [
+                { "key": "usuarioId", "value": "e4a25bf8-03ec-4d3e-9cd4-6d9c00d26bbb" },
+                { "key": "fechaDesde", "value": "2024-07-01" },
+                { "key": "fechaHasta", "value": "2024-07-30" }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba_tecnica_semi_senior_wolivo", "prueba_tecnica_semi_senior_wolivo\prueba_tecnica_semi_senior_wolivo.csproj", "{2377DDB6-AED2-4B6D-95F7-968337EF70F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_prueba_tecnica_semi_senior", "test_prueba_tecnica_semi_senior\test_prueba_tecnica_semi_senior.csproj", "{A09822F6-04D6-42E7-9C80-D1FA57B77AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2377DDB6-AED2-4B6D-95F7-968337EF70F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2377DDB6-AED2-4B6D-95F7-968337EF70F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2377DDB6-AED2-4B6D-95F7-968337EF70F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2377DDB6-AED2-4B6D-95F7-968337EF70F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09822F6-04D6-42E7-9C80-D1FA57B77AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09822F6-04D6-42E7-9C80-D1FA57B77AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09822F6-04D6-42E7-9C80-D1FA57B77AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09822F6-04D6-42E7-9C80-D1FA57B77AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EEE145B-6857-4580-8DAC-2B652EB0E0ED}
+	EndGlobalSection
+EndGlobal

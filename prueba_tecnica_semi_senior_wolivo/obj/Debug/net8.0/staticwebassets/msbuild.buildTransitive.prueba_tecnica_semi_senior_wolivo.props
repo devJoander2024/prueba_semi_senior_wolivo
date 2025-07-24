@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\prueba_tecnica_semi_senior_wolivo.props" />
+</Project>

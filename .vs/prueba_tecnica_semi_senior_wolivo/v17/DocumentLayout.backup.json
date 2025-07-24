@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09822F6-04D6-42E7-9C80-D1FA57B77AF7}|test_prueba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A09822F6-04D6-42E7-9C80-D1FA57B77AF7}|test_prueba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior.csproj|solutionrelative:test_prueba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\dtos\\proyectodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\dtos\\proyectodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\dtos\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\dtos\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\dtos\\actividaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\dtos\\actividaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\controllers\\actividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\controllers\\actividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\services\\actividadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\services\\actividadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\interface\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\interface\\ireporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\interface\\ireporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\dtos\\reporte\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\dtos\\reporte\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\models\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\models\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|c:\\users\\wolivo\\documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\services\\proyectoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2377DDB6-AED2-4B6D-95F7-968337EF70F1}|prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj|solutionrelative:prueba_tecnica_semi_senior_wolivo\\services\\proyectoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_prueba_tecnica_semi_senior",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior.csproj",
+              "RelativeDocumentMoniker": "test_prueba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior.csproj",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior.csproj",
+              "RelativeToolTip": "test_prueba_tecnica_semi_senior\\test_prueba_tecnica_semi_senior.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T21:18:55.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prueba_tecnica_semi_senior_wolivo",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\prueba_tecnica_semi_senior_wolivo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T21:18:11.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\appsettings.json",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\appsettings.json",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\appsettings.json",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T21:09:57.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActividadDto.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Dtos\\ActividadDto.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Dtos\\ActividadDto.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Dtos\\ActividadDto.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Dtos\\ActividadDto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:51:31.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Program.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Program.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Program.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:30:46.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProyectoDto.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Dtos\\ProyectoDto.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Dtos\\ProyectoDto.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Dtos\\ProyectoDto.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Dtos\\ProyectoDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:51:46.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProyectosController.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Controllers\\ProyectosController.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Controllers\\ProyectosController.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Controllers\\ProyectosController.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Controllers\\ProyectosController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:51:07.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Dtos\\UsuarioDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:52:02.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:08:43.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:15:43.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Dtos\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Dtos\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Dtos\\GenericResponse.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Dtos\\GenericResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:12:10.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActividadesController.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Controllers\\ActividadesController.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Controllers\\ActividadesController.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Controllers\\ActividadesController.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Controllers\\ActividadesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:18:55.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReporteService.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Services\\ReporteService.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Services\\ReporteService.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Services\\ReporteService.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Services\\ReporteService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:07:58.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Models\\Usuario.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Models\\Usuario.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:13:14.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:37:36.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:01:01.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActividadService.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Services\\ActividadService.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Services\\ActividadService.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Services\\ActividadService.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Services\\ActividadService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAkwCwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:56:36.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IReporteService.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Interface\\IReporteService.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Interface\\IReporteService.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Interface\\IReporteService.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Interface\\IReporteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:13:33.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Interface\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Interface\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Interface\\IUsuarioService.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Interface\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:15:52.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Models\\Proyecto.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Models\\Proyecto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:13:08.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Models\\Actividad.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Models\\Actividad.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Models\\Actividad.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Models\\Actividad.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:13:02.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Dtos\\Reporte\\Reporte.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Dtos\\Reporte\\Reporte.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Dtos\\Reporte\\Reporte.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Dtos\\Reporte\\Reporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:07:22.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProyectoService.cs",
+              "DocumentMoniker": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Services\\ProyectoService.cs",
+              "RelativeDocumentMoniker": "prueba_tecnica_semi_senior_wolivo\\Services\\ProyectoService.cs",
+              "ToolTip": "C:\\Users\\wolivo\\Documents\\wolivo\\sasf\\krugger\\preuba_tecnica_semi_senior\\prueba_tecnica_semi_senior_wolivo\\Services\\ProyectoService.cs",
+              "RelativeToolTip": "prueba_tecnica_semi_senior_wolivo\\Services\\ProyectoService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:56:37.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

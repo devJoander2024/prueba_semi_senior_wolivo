@@ -1,0 +1,265 @@
+[
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ActividadesController",
+    "Method": "GetAll",
+    "RelativePath": "api/actividades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ActividadesController",
+    "Method": "Create",
+    "RelativePath": "api/actividades",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "prueba_tecnica_semi_senior_wolivo.Dtos.ActividadDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ActividadesController",
+    "Method": "GetById",
+    "RelativePath": "api/actividades/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ActividadesController",
+    "Method": "Update",
+    "RelativePath": "api/actividades/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "prueba_tecnica_semi_senior_wolivo.Dtos.ActividadDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ActividadesController",
+    "Method": "Delete",
+    "RelativePath": "api/actividades/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ProyectosController",
+    "Method": "GetAll",
+    "RelativePath": "api/proyectos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ProyectosController",
+    "Method": "Create",
+    "RelativePath": "api/proyectos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "prueba_tecnica_semi_senior_wolivo.Dtos.ProyectoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ProyectosController",
+    "Method": "GetById",
+    "RelativePath": "api/proyectos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ProyectosController",
+    "Method": "Update",
+    "RelativePath": "api/proyectos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "prueba_tecnica_semi_senior_wolivo.Dtos.ProyectoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ProyectosController",
+    "Method": "Delete",
+    "RelativePath": "api/proyectos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.ReportesController",
+    "Method": "GetActividadesPorUsuario",
+    "RelativePath": "api/reportes/actividades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "fechaDesde",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fechaHasta",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.UsuariosController",
+    "Method": "GetAll",
+    "RelativePath": "api/usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.UsuariosController",
+    "Method": "Create",
+    "RelativePath": "api/usuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "prueba_tecnica_semi_senior_wolivo.Dtos.UsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.UsuariosController",
+    "Method": "GetById",
+    "RelativePath": "api/usuarios/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.UsuariosController",
+    "Method": "Update",
+    "RelativePath": "api/usuarios/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "prueba_tecnica_semi_senior_wolivo.Dtos.UsuarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "prueba_tecnica_semi_senior_wolivo.Controllers.UsuariosController",
+    "Method": "Delete",
+    "RelativePath": "api/usuarios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
